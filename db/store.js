@@ -1,0 +1,1 @@
+// include fxs: read(), write(), getNotes(), addNote() and *bonus removeNote()
