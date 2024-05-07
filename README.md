@@ -12,7 +12,7 @@
 
 
   ## Usage
-  - Navigate to https://ivoryrines.github.io/Note-Taker/
+  - Navigate to https://note-taker-wog5.onrender.com
   - Click on the `Get Started` button to be taken to the notes page. Enter your note title and text, then click on the `Save Note` button. You will see the title of your note save on the left hand side of the screen. To view one of your saved notes, simply click on it. The delete function is still in production.
 
 
