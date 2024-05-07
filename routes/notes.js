@@ -1,4 +1,4 @@
-const router =  require('express').Router()
+const router =  require('express').Router();
 const fs = require('fs');
 
 const uuid = require('../db/uuid');
@@ -37,5 +37,6 @@ router.post('/notes', (req, res) => {
 
   res.json(data); // Respond with the updated data
 });
+
 
 module.exports = router
